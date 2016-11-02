@@ -62,4 +62,4 @@ task main()
 		if(SensorValue[light]>=3050){turnFlashlightOff(Flashlight);wait(0.1);calc();}
 	}pause();
 }
-//This hopefully will work!
+//Hello This is way too dumb
